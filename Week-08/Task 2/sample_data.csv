@@ -1,0 +1,4 @@
+id,name,street,city,state,order_id,product,quantity
+1,John Doe,123 Elm St,Springfield,IL,101,Laptop,1
+2,John Doe,123 Elm St,Springfield,IL,102,Mouse,2
+3,Jane Smith,456 Oak St,Lincoln,NE,103,Keyboard,1
